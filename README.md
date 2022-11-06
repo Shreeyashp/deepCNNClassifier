@@ -27,3 +27,6 @@ STEP 2: install mlflow
 STEP 3: Set remote URI
 
 STEP 4: Use context manager of mlflow to start run and then log metrics, params and model
+
+
+https://user-images.githubusercontent.com/98971637/200178595-476e85ff-1c8a-40b8-bca4-b11721c5b976.mp4
