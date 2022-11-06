@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/deepCNNClassifier/deepCNNClassifier/mlruns/0/ebb7687032bd455895fa97b5ccb174f3/artifacts
+end_time: 1667554076734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ebb7687032bd455895fa97b5ccb174f3
+run_uuid: ebb7687032bd455895fa97b5ccb174f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667553992517
+status: 3
+tags: []
+user_id: Shree
